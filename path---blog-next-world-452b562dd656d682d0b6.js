@@ -1,0 +1,2 @@
+webpackJsonp([0x9eb3bcfcd4a0],{324:function(t,e){t.exports={data:{markdownRemark:{html:'<ul>\n<li>next world content</li>\n</ul>\n<p><img src="./NeXT.jpg" alt="NeXT"></p>',frontmatter:{date:"March 22, 2014",path:"/blog/next-world",title:"Next World"}}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-next-world-452b562dd656d682d0b6.js.map
